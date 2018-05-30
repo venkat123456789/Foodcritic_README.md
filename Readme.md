@@ -8,7 +8,7 @@
 # AIG Custom Foodcritic rules for Chef Cookbooks
 
 <p align="center">
-![alt text](http://www.foodcritic.io/images/foodcritic.png)
+![Alt text](http://www.foodcritic.io/images/foodcritic.png?raw=true "Title")
 </p>
 
 
