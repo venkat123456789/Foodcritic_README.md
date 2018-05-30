@@ -7,9 +7,7 @@
 
 # AIG Custom Foodcritic rules for Chef Cookbooks
 
-<p align="center">
-![Alt text](http://www.foodcritic.io/images/foodcritic.png?raw=true "Title")
-</p>
+<img align="left" width="600" height="500" src="http://www.foodcritic.io/images/foodcritic.png">
 
 
 ----------
