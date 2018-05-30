@@ -12,6 +12,18 @@
 
 ![alternativetext](http://www.scmgalaxy.com/tutorials/wp-content/uploads/2015/10/chef-code-analysis-using-fo-1.png)
 
+
+----------
+
+
+<p align="center">
+  <img src="http://www.scmgalaxy.com/tutorials/wp-content/uploads/2015/10/chef-code-analysis-using-fo-1.png" width="350"/>
+</p>
+
+
+
+
+
 ----------
 --
 
