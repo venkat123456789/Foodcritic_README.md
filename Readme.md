@@ -7,27 +7,9 @@
 
 # AIG Custom Foodcritic rules for Chef Cookbooks
 
-<img align="left" width="300" height="300" src="http://www.foodcritic.io/images/foodcritic.png">
-
+![alt tag](http://www.foodcritic.io/images/foodcritic.png)
 
 ----------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 __## Please find the rules which were not a part of 108 built-in Foodcritic rules in Chef-DK.__
