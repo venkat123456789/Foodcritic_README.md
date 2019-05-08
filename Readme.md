@@ -1,5 +1,7 @@
 ### Every single standard Foodcritic rule is documented here with examples
 
+
+
 #### Link : http://www.foodcritic.io
 
 #### This would be all FCXXX named rule. 
