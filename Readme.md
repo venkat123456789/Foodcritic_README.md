@@ -1,6 +1,6 @@
-### Every single standard Foodcritic rule is documented here with examples
+csdjk### Every single standard Foodcritic rule is documented here with examples
 
-
+cbadshj
 nskdk
 
 
