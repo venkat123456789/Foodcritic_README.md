@@ -1,7 +1,7 @@
 ### Every single standard Foodcritic rule is documented here with examples
 
 
-
+nskdk
 
 
 
